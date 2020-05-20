@@ -114,6 +114,7 @@ const game = () => {
         }
     }
 
+//Resets the game by clicking button    
 const resetGame = () => {
     const resetBtn = document.querySelector('.reset button');
 
